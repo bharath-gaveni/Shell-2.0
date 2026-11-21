@@ -49,6 +49,6 @@ else
     echo "python installation is success"
 fi
 else
-    echo "nginx is already installed skipping...."
+    echo "python is already installed skipping...."
 fi 
 
