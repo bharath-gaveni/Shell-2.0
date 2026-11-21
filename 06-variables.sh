@@ -4,5 +4,5 @@ Start_time=$(date +%s)
 sleep 10
 end_time=$(date +%s)
 
-total_time=$($end_time -$Start_time)
+total_time=$(($end_time -$Start_time))
 echo "total time taken to execute the script is $total_time sec"
