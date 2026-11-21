@@ -48,5 +48,5 @@ if [ $? -ne 0 ]; then
 
 else
     echo "python is already installed skipping...."
-fi 
+fi
 
